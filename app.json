@@ -1,0 +1,16 @@
+{
+    "id": "a64db8c8-a216-4ebf-ba62-aed4c82d1560",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Alessio Palmero Aprosio",
+        "homepage": "https://github.com/ziorufus/",
+        "support": "https://github.com/ziorufus/"
+    },
+    "name": "Help app",
+    "nameSlug": "help-app",
+    "classFile": "HelpAppApp.ts",
+    "description": "Help for Kid Actions EU project",
+    "implements": []
+}
